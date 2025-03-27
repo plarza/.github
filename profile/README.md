@@ -1,1 +1,1 @@
-# Plarza
+![](full.jpg)
