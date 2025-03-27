@@ -1,1 +1,1 @@
-![](full.jpg)
+![](../full.jpg)
